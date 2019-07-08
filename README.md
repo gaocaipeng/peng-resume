@@ -1,11 +1,13 @@
 # peng-resume
-Gao Caipeng's resume website yo~
+### Gao Caipeng's resume website yo~
 
-姓名：高彩鹏
-出生日期：1995.04
-Iphone：18813105216
-邮箱：gao.xiaotian@hotmail.com
-个人网站：www.gaocaipeng.com
+
+## 姓名：高彩鹏
+## 出生日期：1995.04
+## Iphone：18813105216
+## 邮箱：gao.xiaotian@hotmail.com
+## 个人网站：www.gaocaipeng.com
+# 掌握的技术
 1.	熟练掌握 HTML 及 HTML5 新特性，CSS 及 CSS3 新增属性
 2.	熟悉响应式设计、Sass，Less 预处理器，掌握 JavaScript、ES5、ES6 等技术。
 3.	熟悉 Node.js 基于Koa，Express来实现前后端分离开发，MySQL 数据库，gulp、webpack 等自动化构建工具 ，熟悉前端优化需求。
